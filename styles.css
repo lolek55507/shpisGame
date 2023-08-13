@@ -1,0 +1,17 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#canvas1 {
+    width: 1000px;
+    height: 600px;
+    border: 2px solid black;
+    margin-top: 10%;
+}
+#playerImage {
+    display: none;
+}
